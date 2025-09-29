@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+requests
+google-cloud-bigquery
+db-dtypes
+pandas
+numpy

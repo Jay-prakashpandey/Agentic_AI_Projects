@@ -1,0 +1,34 @@
+# Ignore Python virtual environments
+my_env/*
+.env/*
+.venv/
+ENV/
+b_a_db_env/*
+Basic_agentic_database/.env
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore OS files
+.DS_Store
+
+# Ignore package management files/folders
+*.egg-info/
+dist/
+build/
+
+# Ignore pip package files
+pip-wheel-metadata/
+*.whl
+
+# Ignore common package manager lock files
+Pipfile.lock
+poetry.lock
+
+# Ignore log files
+*.log

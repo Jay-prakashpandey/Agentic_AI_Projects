@@ -4,7 +4,7 @@ my_env/*
 .venv/
 ENV/
 b_a_db_env/*
-Basic_agentic_database/.env
+Basic_agentic_database/.env/
 # Ignore Python bytecode
 __pycache__/
 *.pyc
